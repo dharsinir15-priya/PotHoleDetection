@@ -2,6 +2,8 @@
 
 # IPDS: Intelligent Pothole Detection System
 
+English · [मराठी](docs/README.mr.md)
+
 ### See it. Feel it. Map it.
 
 **A low-cost dual-ESP32 + YOLOv8 rig that detects potholes in real time, tracks them, confirms each one with an accelerometer, and logs it with a severity score, GPS position and timestamp.**
